@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "metric_rail",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
