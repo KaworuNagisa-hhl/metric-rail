@@ -14,16 +14,6 @@
 ohpm install metric-rail
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "metric-rail": "file:../metric-rail",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 

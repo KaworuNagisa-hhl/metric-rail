@@ -1,8 +1,8 @@
 {
   "modelVersion": "6.0.2",
   "name": "metric-rail",
-  "version": "1.0.1",
-  "description": "OpenHarmony/HarmonyOS ArkUI like-ios 指标栏组件，组合多个指标单元用于看板、概览和状态摘要。本次 1.0.1 补齐 homepage、example 示例目录与更清晰的 README 发布说明。",
+  "version": "1.0.2",
+  "description": "OpenHarmony/HarmonyOS ArkUI like-ios 指标栏组件，组合多个指标单元用于看板、概览和状态摘要。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
   "author": { "name": "KaworuNagisa-hhl", "url": "https://github.com/KaworuNagisa-hhl" },
   "homepage": "https://github.com/KaworuNagisa-hhl/metric-rail",
