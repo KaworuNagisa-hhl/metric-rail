@@ -1,5 +1,5 @@
 import { describe, it, expect } from '@ohos/hypium'
-import { SwiftUIMetricItem } from 'theme'
+import { SwiftUIMetricItem } from '@kaworunagisa_hhl/theme'
 
 export default function localUnitTest() {
   describe('SwiftUIMetricRail', () => {
