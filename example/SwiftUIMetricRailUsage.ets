@@ -1,4 +1,4 @@
-import { SwiftUIMetricRail } from '@kaworunagisa_hhl/metric-rail'
+import { SwiftUIMetricRail } from 'metric-rail'
 
 @Component
 export struct SwiftUIMetricRailUsage {

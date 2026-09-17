@@ -1,5 +1,5 @@
-import { SWIFT_UI_SPACING_SMALL, SwiftUIComponentConfig, SwiftUIMetricItem, SwiftUITone } from '@kaworunagisa_hhl/theme'
-import { SwiftUIMetricCell } from '@kaworunagisa_hhl/metric-cell'
+import { SWIFT_UI_SPACING_SMALL, SwiftUIComponentConfig, SwiftUIMetricItem, SwiftUITone } from 'theme'
+import { SwiftUIMetricCell } from 'metric-cell'
 
 @Component
 export struct SwiftUIMetricRail {
